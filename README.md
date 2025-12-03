@@ -3,16 +3,22 @@
 > Guess a secret number between 1 and 100 with smart hints and a perfect try counter.  
 > Made by @Kosarizarei (November 16, 2025).
 
+---
+
 ## Features
 - Random number (1-100)
 - Smart hints: "way too low/high" or "close!"
 - Try counter with correct grammar ("1 try" / "X tries")
 - Clean and beginner-friendly code
 
+---
+
 ## How to Play
 1. Run the script.
 2. Guess the number.
 3. Get hints until you win!
+
+---
 
 ## Example
 ```text
@@ -25,6 +31,8 @@ Your guess is low but close!
 I can't believe it! You did it!
 You got it in 3 tries!
 ```
+---
+
 ## Full Code (guessing_game.py)
 ```python
 print('Guessing Game!')
@@ -55,9 +63,13 @@ print("I can't believe it! you did it!")
 print(f"You got it in {i} {'try' if i == 1 else 'tries'}!")
 
 ```
+---
+
 ## 🤝 Contribute
 - **Star** this repo if you like it! ⭐
 - **Fork** it and make it better (add GUI, levels, etc.)
 - Open a **Pull Request**!
+
+---
 
 Made with ❤️ by @Kosarizarei
