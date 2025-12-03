@@ -1,7 +1,7 @@
 # 🎲Guessing Number Game in Python
 > **Description**: A fun number guessing game with try counter by Python!  
 > Guess a secret number between 1 and 100 with smart hints and a perfect try counter.  
-> Made by @Kosarizarei from Azerbaijan (November 16, 2025).
+> Made by @Kosarizarei (November 16, 2025).
 
 ## Features
 - Random number (1-100)
